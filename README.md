@@ -11,3 +11,12 @@ https://github.com/Ashikuzzaman1607080/Danger-Detection-Application/assets/50808
 # Work progress
 
 This repository consists of the original code for the application. Clone this repository and run it with Android Studio. APK can be provided based on request.
+
+# Python Server
+
+Check out the following two repositories to better understand the backend Python server for online version:
+
+* [Danger-detection](https://github.com/awal-ahmed/Danger-detection)
+* [AudioViT](https://github.com/awal-ahmed/AudioViT)
+
+
